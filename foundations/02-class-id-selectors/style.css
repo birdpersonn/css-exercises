@@ -1,0 +1,21 @@
+.red-highlight {
+    background-color: lightpink;
+    font-family: 'Verdana', "DejaVu Sans", "sans-seriff";
+}
+
+.large {
+    font-size: 24px;
+}
+
+#shego {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+
